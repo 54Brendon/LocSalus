@@ -1,0 +1,38 @@
+Nome do Caso de Uso: Agendamento de Consulta Médica
+
+Ator Principal: Paciente
+
+Resumo: Este caso de uso descreve o processo que um paciente realiza ao agendar uma consulta médica através da plataforma "Conexão Vital".
+
+Fluxo Básico:
+
+O Paciente Acessa a Plataforma: O paciente acessa a plataforma "Conexão Vital" através de um navegador web ou aplicativo móvel.
+
+O Paciente Inicia Sessão: O paciente faz login na plataforma utilizando suas credenciais previamente cadastradas.
+
+Pesquisa por Especialidade ou Médico: O paciente pesquisa por especialidade médica ou médico específico, inserindo as informações na barra de pesquisa da plataforma.
+
+Visualiza Opções Disponíveis: A plataforma retorna uma lista de clínicas e hospitais que oferecem o serviço desejado, juntamente com as datas e horários disponíveis para agendamento.
+
+Seleciona Data e Horário: O paciente seleciona a data e horário de sua preferência para a consulta médica a partir das opções disponíveis.
+
+Confirmação de Agendamento: Após selecionar a data e horário desejados, o paciente confirma o agendamento da consulta médica.
+
+Recebe Confirmação: A plataforma exibe uma mensagem de confirmação do agendamento da consulta, juntamente com os detalhes relevantes, como data, horário, local e nome do médico.
+
+Fluxo Alternativo:
+
+Pesquisa Avançada: Se o paciente não encontrar a especialidade ou médico desejado na pesquisa inicial, ele pode optar por realizar uma pesquisa avançada, filtrando os resultados por localização, avaliação do médico, ou outros critérios específicos.
+Fluxo de Exceção:
+
+Falha no Agendamento: Se houver qualquer problema durante o processo de agendamento, como conflito de horários ou falha na comunicação com o sistema da clínica ou hospital, a plataforma exibe uma mensagem de erro e orienta o paciente a tentar novamente mais tarde ou a entrar em contato com o suporte técnico.
+Pré-condições:
+
+O paciente deve ter uma conta registrada na plataforma "Conexão Vital".
+A clínica ou hospital deve estar cadastrado na plataforma e oferecer o serviço de agendamento online.
+Deve haver disponibilidade de datas e horários para agendamento na clínica ou hospital selecionado pelo paciente.
+Pós-condições:
+
+O paciente recebe uma confirmação do agendamento da consulta médica, e a clínica ou hospital é notificado sobre a marcação da consulta.
+Os dados do agendamento são registrados no sistema da plataforma para referência futura do paciente e para fins de acompanhamento administrativo.
+
