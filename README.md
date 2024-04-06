@@ -2,7 +2,8 @@
 Plataforma de Agendamento de Consultas Médicas e Serviços de Saúde que conecta pacientes a clínicas e hospitais, permitindo o agendamento de consultas e serviços de saúde de forma rápida e conveniente, além de oferecer recursos de comunicação para interação direta entre pacientes e prestadores de serviços de saúde.
 ## Telas
 <div align="center">
-<img src="[[https://desblogada.files.wordpress.co...](https://www.canva.com/design/DAFPNzS5OZo/Qwf10SgeeEqJ4ICX-JN8Vw/edit?utm_content=DAFPNzS5OZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.canva.com/design/DAFPNzS5OZo/Qwf10SgeeEqJ4ICX-JN8Vw/edit)" width="25px" />
+<img src="(https://github.com/54Brendon/LocSalus/assets/66092599/a027630a-8da0-4c9e-8e72-37ac57db401d)
+" width="25px" />
 </div>
 
 ## 💻 Technologies & Tools
