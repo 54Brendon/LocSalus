@@ -18,5 +18,6 @@ Plataforma de Agendamento de Consultas Médicas e Serviços de Saúde que conect
   <img src="https://img.icons8.com/color/48/000000/figma.png" height="25"/>
 </p>
 
-
+## informações
+O projeto está em andamento.
 
