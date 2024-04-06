@@ -7,5 +7,5 @@ Plataforma de Agendamento de Consultas Médicas e Serviços de Saúde que conect
 ## 💻 Technologies & Tools
 
 <p align="center">
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="0"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="0"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
