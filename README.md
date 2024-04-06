@@ -1,6 +1,8 @@
 # LocSalus
 Plataforma de Agendamento de Consultas Médicas e Serviços de Saúde que conecta pacientes a clínicas e hospitais, permitindo o agendamento de consultas e serviços de saúde de forma rápida e conveniente, além de oferecer recursos de comunicação para interação direta entre pacientes e prestadores de serviços de saúde.
 ## Telas
+![1](https://github.com/54Brendon/LocSalus/assets/66092599/a027630a-8da0-4c9e-8e72-37ac57db401d)
+
 <div align="center">
 <img src="(https://github.com/54Brendon/LocSalus/assets/66092599/a027630a-8da0-4c9e-8e72-37ac57db401d)
 " width="25px" />
