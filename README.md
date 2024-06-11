@@ -1,23 +1,11 @@
-# LocSalus
-Plataforma de Agendamento de Consultas Médicas e Serviços de Saúde que conecta pacientes a clínicas e hospitais, permitindo o agendamento de consultas e serviços de saúde de forma rápida e conveniente, além de oferecer recursos de comunicação para interação direta entre pacientes e prestadores de serviços de saúde.
+# Sample Snack app
 
-## Telas
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-<p align="center">
-  <img src="https://github.com/54Brendon/LocSalus/assets/66092599/062133a6-d835-4b27-8b64-b5125a3c396b" width="200" alt="prototipo - design e inovação">
-</p>
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## 💻 Technologies & Tools
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" height="25"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" height="25"/>
-  <img src="http://ullizee.files.wordpress.com/2013/01/scrum-org-logo-circles.png" height="25"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" height="25"/>
-</p>
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-## informações
-O projeto está em andamento.
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
